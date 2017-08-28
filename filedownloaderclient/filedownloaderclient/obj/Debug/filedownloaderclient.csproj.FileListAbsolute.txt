@@ -7,3 +7,13 @@ C:\src\git\github\filedownloader\filedownloader\filedownloaderclient\filedownloa
 C:\src\git\github\filedownloader\filedownloader\filedownloaderclient\filedownloaderclient\obj\Debug\filedownloaderclient.exe
 C:\src\git\github\filedownloader\filedownloader\filedownloaderclient\filedownloaderclient\obj\Debug\filedownloaderclient.pdb
 C:\src\git\github\filedownloader\filedownloader\filedownloaderclient\filedownloaderclient\obj\Debug\filedownloaderclient.csprojResolveAssemblyReference.cache
+D:\src\srcgit\github\filedownloader\filedownloaderclient\filedownloaderclient\bin\Debug\filedownloaderclient.exe.config
+D:\src\srcgit\github\filedownloader\filedownloaderclient\filedownloaderclient\bin\Debug\filedownloaderclient.exe
+D:\src\srcgit\github\filedownloader\filedownloaderclient\filedownloaderclient\bin\Debug\filedownloaderclient.pdb
+D:\src\srcgit\github\filedownloader\filedownloaderclient\filedownloaderclient\obj\Debug\filedownloaderclient.csprojResolveAssemblyReference.cache
+D:\src\srcgit\github\filedownloader\filedownloaderclient\filedownloaderclient\obj\Debug\filedownloaderclient.Form1.resources
+D:\src\srcgit\github\filedownloader\filedownloaderclient\filedownloaderclient\obj\Debug\filedownloaderclient.Properties.Resources.resources
+D:\src\srcgit\github\filedownloader\filedownloaderclient\filedownloaderclient\obj\Debug\filedownloaderclient.csproj.GenerateResource.Cache
+D:\src\srcgit\github\filedownloader\filedownloaderclient\filedownloaderclient\obj\Debug\filedownloaderclient.csproj.CoreCompileInputs.cache
+D:\src\srcgit\github\filedownloader\filedownloaderclient\filedownloaderclient\obj\Debug\filedownloaderclient.exe
+D:\src\srcgit\github\filedownloader\filedownloaderclient\filedownloaderclient\obj\Debug\filedownloaderclient.pdb
