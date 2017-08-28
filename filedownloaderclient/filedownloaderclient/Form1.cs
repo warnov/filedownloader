@@ -37,7 +37,7 @@ namespace filedownloaderclient
             txtSvrPath.Text = Clipboard.ContainsText() ? Clipboard.GetText() :
                   String.Empty;
             txtFileName.Text = String.Empty;
-            txtFileName.Focus();
+            txtFileName.Focus()
         }
 
         private void btnSavingFolder_Click(object sender, EventArgs e)
